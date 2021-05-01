@@ -25,3 +25,5 @@ Les prérequis pour utiliser Hibernate Reactive sont:
 
 Cela fonctionne avec: PostgreSQL, MySQL, MariaDB, Db2, et CockroachDB.
 La doc : http://hibernate.org/reactive/documentation/1.0/reference/html_single/
+
+On Stand By
